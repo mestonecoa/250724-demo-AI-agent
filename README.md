@@ -1,5 +1,4 @@
 # AI Agent Demo
-
 This repository contains a Python-based AI agent that acts as a research assistant, built by replicating [Tech With Tim's YouTube tutorial](https://www.youtube.com/watch?v=bTMPwUgLZf0). The agent uses [LangChain](https://www.langchain.com/) to query Wikipedia and DuckDuckGo, processes user queries with a large language model (LLM) like OpenAI's GPT-4o, and saves structured research output to a text file with timestamps.
 
 ## Features
@@ -80,7 +79,7 @@ John Mayer's most successful record is often considered to be 'Continuum,' relea
 This project replicates the AI agent tutorial by [Tech With Tim](https://www.youtube.com/watch?v=bTMPwUgLZf0). All code is adapted from the tutorial’s [GitHub repository](https://github.com/techwithtim/PythonAIAgentFromScratch) with minor modifications.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Tech With Time hasn't identified License.
 
 ## Contributing
 Feel free to open issues or submit pull requests for improvements. As this is a learning project, contributions are welcome but should align with the tutorial’s scope.
