@@ -79,7 +79,7 @@ John Mayer's most successful record is often considered to be 'Continuum,' relea
 This project replicates the AI agent tutorial by [Tech With Tim](https://www.youtube.com/watch?v=bTMPwUgLZf0). All code is adapted from the tutorial’s [GitHub repository](https://github.com/techwithtim/PythonAIAgentFromScratch) with minor modifications.
 
 ## License
-Tech With Time hasn't identified License.
+Tech With Tim hasn't identified License.
 
 ## Contributing
 Feel free to open issues or submit pull requests for improvements. As this is a learning project, contributions are welcome but should align with the tutorial’s scope.
