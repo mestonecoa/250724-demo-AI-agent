@@ -29,4 +29,7 @@ git commit -m "some commit comment"
 git add main.ipynb random_notes.md
 git push origin main
 git diff main.ipynb random_notes.md
+
+git remote -v
+git remote add origin https://github.com/...somerepo...
 ```
